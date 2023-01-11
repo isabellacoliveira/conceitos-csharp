@@ -1,0 +1,15 @@
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.AssemblyInfo.cs
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\bin\Debug\net6.0\4-ConversoesEmOutrosTipos.exe
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\bin\Debug\net6.0\4-ConversoesEmOutrosTipos.deps.json
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\bin\Debug\net6.0\4-ConversoesEmOutrosTipos.runtimeconfig.json
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\bin\Debug\net6.0\4-ConversoesEmOutrosTipos.dll
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\bin\Debug\net6.0\4-ConversoesEmOutrosTipos.pdb
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.dll
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\refint\4-ConversoesEmOutrosTipos.dll
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.pdb
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\4-ConversoesEmOutrosTipos.genruntimeconfig.cache
+C:\Users\ModalGR\source\repos\AprendendoCSharp\4-ConversoesEmOutrosTipos\obj\Debug\net6.0\ref\4-ConversoesEmOutrosTipos.dll
